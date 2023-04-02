@@ -36,6 +36,7 @@
 modules.builtin
 Module.symvers
 *.dwo
+compile_commands.json
 
 #
 # files
@@ -127,3 +128,4 @@ util-linux/Kbuild
 util-linux/volume_id/Config.in
 util-linux/volume_id/Kbuild
 include/config/*
+_install_rootfs/*
