@@ -1,0 +1,5 @@
+/home/wtp/linux/rootfs/alientek_imx6ull_rootfs/package/busybox/0001-networking-libiproute-use-linux-if_packet.h-instead-.patch
+/home/wtp/linux/rootfs/alientek_imx6ull_rootfs/package/busybox/0002-Makefile.flags-strip-non-l-arguments-returned-by-pkg.patch
+/home/wtp/linux/rootfs/alientek_imx6ull_rootfs/package/busybox/0003-install.sh-don-t-clobber-dangling-symlinks.patch
+/home/wtp/linux/rootfs/alientek_imx6ull_rootfs/package/busybox/0004-udhcpc-check-that-4-byte-options-are-indeed-4-byte-closes-11506.patch
+/home/wtp/linux/rootfs/alientek_imx6ull_rootfs/package/busybox/0005-udhcpc-when-decoding-DHCP_SUBNET-ensure-it-is-4-bytes-long.patch
