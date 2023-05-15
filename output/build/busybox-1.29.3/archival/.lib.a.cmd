@@ -1,1 +1,0 @@
-cmd_archival/lib.a := rm -f archival/lib.a; /home/wtp/linux/rootfs/alientek_imx6ull_rootfs/output/host/bin/arm-linux-gnueabihf-ar  rcs archival/lib.a archival/ar.o archival/bbunzip.o archival/cpio.o archival/gzip.o archival/lzop.o archival/tar.o archival/unzip.o

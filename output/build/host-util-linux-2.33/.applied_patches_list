@@ -1,3 +1,0 @@
-/home/wtp/linux/rootfs/alientek_imx6ull_rootfs/package/util-linux/0001-rtcwake-use-poweroff-if-shutdown-is-not-found.patch
-/home/wtp/linux/rootfs/alientek_imx6ull_rootfs/package/util-linux/0002-agetty-fix-output-of-escaped-characters.patch
-/home/wtp/linux/rootfs/alientek_imx6ull_rootfs/package/util-linux/0003-setarch-fix-obscure-sparc32bash-use-case.patch
