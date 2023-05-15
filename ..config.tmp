@@ -2555,7 +2555,7 @@ endif
 ifneq "$(HOSTARCH)" "x86_64"
 /home/wtp/linux/rootfs/alientek_imx6ull_rootfs/output/build/buildroot-config/auto.conf: FORCE
 endif
-ifneq "$(BR2_VERSION_FULL)" "2019.02.6-gaf4571f"
+ifneq "$(BR2_VERSION_FULL)" "2019.02.6-g01d1bece-dirty"
 /home/wtp/linux/rootfs/alientek_imx6ull_rootfs/output/build/buildroot-config/auto.conf: FORCE
 endif
 

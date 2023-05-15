@@ -36,6 +36,8 @@
 modules.builtin
 Module.symvers
 *.dwo
+*.tmp
+*.old
 compile_commands.json
 
 #
